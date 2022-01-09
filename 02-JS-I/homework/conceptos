@@ -1,0 +1,17 @@
+
+	* Variables: Es cualquier cosa que puede cambiar constantemente ejemplo: la velocidad de un auto.
+
+	* Strings: Proviene del ingles, significa frase. es un conjunto de palabras ordenadas que forman una informacion.
+
+	* Funciones (argumentos, `return`)
+
+    los argumentos son aquellas variables que necesita una funcion para realizar una opcion
+    ejemplo:
+    una calculadora tiene muchas funciones una de ellas es poder sumar dos numeros
+    esos dos numeros serian de cualquier valos los que serian argumentos.
+
+    Return: termina una funcion actual y devuelve el control a la funcion inicial
+
+	* Declaraciones `if`:Un if en programación se utiliza para evaluar una expresión condicional: si se cumple la condición (es verdadera), ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
+
+	* Valores booleanos (`true`, `false`)
