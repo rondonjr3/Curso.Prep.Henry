@@ -3,6 +3,8 @@ h1{
 }
 img{
     width: 400px;
+    float: right;
+  width: 80%;
 }
 #thirdDiv{
     height: 600px;
@@ -10,8 +12,12 @@ img{
     background-color: rgb(233, 201, 159);
     padding: 50px;
     border: 7px red solid;
-}
+    }
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+div{
+   
+    justify-content: center;
 }
