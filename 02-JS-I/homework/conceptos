@@ -14,4 +14,4 @@
 
 	* Declaraciones `if`:Un if en programación se utiliza para evaluar una expresión condicional: si se cumple la condición (es verdadera), ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
 
-	* Valores booleanos (`true`, `false`)
+	* Valores booleanos (`true`, `false`)El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero
